@@ -1,0 +1,4 @@
+[KIRI ENGINE DEV. MODE] Cameras Pose Generation
+2024-11-04 04:43:35.030476
+Matched 301 images
+All the data will be deleted after 3 days
