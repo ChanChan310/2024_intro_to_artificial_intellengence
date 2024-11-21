@@ -215,5 +215,7 @@ pyrightconfig.json
 # ignore all whl files
 *.whl
 
+# ignore all api files
+APIkey.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jupyternotebooks
