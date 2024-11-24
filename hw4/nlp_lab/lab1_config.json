@@ -1,5 +1,5 @@
 {
-    "task_list": ["ner", "rel", "sum"],
+    "task_list": ["ner", "rel", "sum", "ke", "tm"],
     "prompt_method_list": ["instruction", "in-context_learning"],
     "language_list": ["en", "zh"],
     "model": "gpt-3.5-turbo",

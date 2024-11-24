@@ -1,0 +1,4 @@
+Extract key phrases or words from the following paragraph:
+
+Sentences:
+INPUT_PLACEHOLDER

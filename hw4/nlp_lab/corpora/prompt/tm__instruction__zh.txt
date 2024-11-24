@@ -1,0 +1,5 @@
+Identify the main topics discussed in the following article:
+All the response should be written in Chinese.
+
+Article:
+INPUT_PLACEHOLDER

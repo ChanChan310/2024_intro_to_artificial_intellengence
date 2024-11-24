@@ -1,0 +1,5 @@
+Extract key phrases or words from the following paragraph:
+All the response should be written in Chinese.
+
+Sentences:
+INPUT_PLACEHOLDER

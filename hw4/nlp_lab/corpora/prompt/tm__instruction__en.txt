@@ -1,0 +1,4 @@
+Identify the main topics discussed in the following article:
+
+Article:
+INPUT_PLACEHOLDER
