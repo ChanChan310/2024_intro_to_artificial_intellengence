@@ -1,0 +1,12 @@
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+torchaudio==0.13.1
+numpy>=1.22.0
+scipy>=1.4.1
+librosa>=0.10.0
+inflect>=0.2.5
+numba>=0.54.0
+soundfile==0.12.1
+unidecode
+tqdm
+--extra-index-url https://download.pytorch.org/whl/cu117

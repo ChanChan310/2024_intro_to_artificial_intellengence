@@ -1,0 +1,9 @@
+pytorch>=1.12.1,<2
+numpy>=1.22.0
+scipy>=1.4.1
+librosa>=0.10.0
+inflect>=0.2.5
+numba>=0.54.0
+pysoundfile==0.12.1
+unidecode
+tqdm

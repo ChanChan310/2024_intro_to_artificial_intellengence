@@ -218,4 +218,7 @@ pyrightconfig.json
 # ignore all api files
 APIkey.txt
 
+# ignore all audio files
+*.wav
+
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jupyternotebooks
